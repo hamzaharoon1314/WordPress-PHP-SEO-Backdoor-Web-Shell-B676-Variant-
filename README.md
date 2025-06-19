@@ -59,7 +59,7 @@ $goweb = str_rot13(urldecode($xmlname));
 ```
 
 - `str_rot13` + `urldecode` used to hide the attacker-controlled C2 domain name.
-- Final domain after decoding and ROT13: `fjjoining.comaclehs.site` *(example – result may vary depending on obfuscation)*
+- Final domain after decoding and ROT13: `fzjointpn.cycalmho.site`
 
 ---
 
