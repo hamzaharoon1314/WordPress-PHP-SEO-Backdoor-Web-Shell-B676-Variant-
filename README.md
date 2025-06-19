@@ -68,6 +68,7 @@ $goweb = str_rot13(urldecode($xmlname));
 ```php
 $web = $http_web . '://' . $goweb . '/indexnew.php';
 ```
+- http://fzjointpn.cycalmho.site/indexnew.php
 
 - The malware sends a POST request with victim information including:
   - Host
